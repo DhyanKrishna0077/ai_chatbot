@@ -1,0 +1,27 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.question-carousel {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  background-color: #f8f8f8;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
+.carousel-buttons {
+  margin-top: 20px;
+}
+.question-div{
+  padding: 1rem;
+}
